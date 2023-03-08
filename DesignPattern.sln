@@ -6,6 +6,16 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FacadePattern", "FacadePattern", "{63E8043C-B646-4D00-9C10-DE0B19642B20}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryPattern", "FactoryPattern", "{43096F4F-8612-4154-8702-27C452160D36}"
+	ProjectSection(SolutionItems) = preProject
+		Client.cs = Client.cs
+		Creator.cs = Creator.cs
+		IInterbankSystem.cs = IInterbankSystem.cs
+		MBWay.cs = MBWay.cs
+		MBWayCreator.cs = MBWayCreator.cs
+		MultiBanco.cs = MultiBanco.cs
+		MultiBancoCreator.cs = MultiBancoCreator.cs
+		ProgramF.cs = ProgramF.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObserverPatern", "ObserverPatern", "{C9CC1C6E-83D3-4222-AAEF-005F635B1FB3}"
 	ProjectSection(SolutionItems) = preProject
