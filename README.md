@@ -1,5 +1,5 @@
 # DesignPatterns4Examples
-Design Patterns Singleton Factory Method Facade Observer 
+Design Patterns implement Singleton Factory Method Facade Observer 
 
 The Factory Method pattern is intended to develop The example of a construction of instances of
 banking systems, for example an ATM system and mbway;
