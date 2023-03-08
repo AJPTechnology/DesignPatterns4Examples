@@ -8,6 +8,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryPattern", "FactoryPattern", "{43096F4F-8612-4154-8702-27C452160D36}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObserverPatern", "ObserverPatern", "{C9CC1C6E-83D3-4222-AAEF-005F635B1FB3}"
+	ProjectSection(SolutionItems) = preProject
+		BankObserver.cs = BankObserver.cs
+		ClientObserver.cs = ClientObserver.cs
+		ILoginStateSubject.cs = ILoginStateSubject.cs
+		IObserver.cs = IObserver.cs
+		LoginStateSubject.cs = LoginStateSubject.cs
+		ProgramObs.cs = ProgramObs.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Singleton", "Singleton", "{A26E2CA7-187E-4202-86E9-1189BA9E1483}"
 	ProjectSection(SolutionItems) = preProject
