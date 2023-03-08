@@ -1,7 +1,7 @@
 # DesignPatterns4Examples
 Design Patterns implement Singleton Factory Method Facade Observer 
 
-The Factory Method pattern is intended to develop The example of a construction of instances of
+The Factory Method pattern is intended to develop a construction of instances for an
 banking systems, for example an ATM system and mbway;
 
 • In the Singleton pattern we will create entities responsible for transfers and payments. These entities are unique and cannot be replicated.
