@@ -4,6 +4,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FacadePattern", "FacadePattern", "{63E8043C-B646-4D00-9C10-DE0B19642B20}"
+	ProjectSection(SolutionItems) = preProject
+		ProgramFa.cs = ProgramFa.cs
+		TransactionFacade.cs = TransactionFacade.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryPattern", "FactoryPattern", "{43096F4F-8612-4154-8702-27C452160D36}"
 	ProjectSection(SolutionItems) = preProject
